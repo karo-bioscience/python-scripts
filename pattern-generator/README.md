@@ -1,1 +1,2 @@
-#Pattern Generator made using Python
+  Python Pattern Generator
+===============================================================================================
